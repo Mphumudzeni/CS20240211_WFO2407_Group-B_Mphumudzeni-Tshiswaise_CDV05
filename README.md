@@ -1,52 +1,34 @@
-### CDV05 | Project Brief: Simple Developer Portfolio Website 🎨
+# Mphumudzeni Personal Portfolio
 
-#### Objective
-Create a very simple developer portfolio website to showcase your projects, skills, and contact information. This project will help you demonstrate your ability to design and develop a personal website that combines design and user experience, project showcase, content quality, and technical proficiency.
+Welcome to my personal portfolio page, where I showcase my skills and share a bit about myself—all through the lens of my passion for Software Develepment!
 
-#### Criteria
-Your portfolio will be evaluated based on the following criteria:
+# About Me
 
-1. **Overall Project Quality** (CDV05)
-    - Combines design and user experience, project showcase, content quality, and technical proficiency.
+I'm Mphumudzeni Tshiswaise, a passionate web developer with a love for technology and coding. Having honed my skills through a front-end bootcamp, I aim to create web solutions that contribute positively to society and the tech industry. My journey into the world of coding reflects my dedication to continuous learning and improvement, much like perfecting my portfolio.
 
-#### Evaluation Rubric
+# How to Run the Website
 
-| **Criteria** | **5 - Excellent** | **4 - Good** | **3 - Satisfactory** | **2 - Needs Improvement** | **1 - Unsatisfactory** | **0 - No Submission** |
-|--------------|-------------------|--------------|----------------------|---------------------------|------------------------|-----------------------|
-| **D3.1**: CDV05: Simple Developer Portfolio Website | **Outstanding Portfolio in every aspect.** Outstanding quality in design, user experience, project diversity, content accuracy, and technical proficiency. | **A solid Portfolio with clear strengths in most sections.** High quality across all aspects with minor areas for improvement. | **Portfolio meets basic requirements but lacks polish and refinement.** Adequate quality meeting basic requirements but lacking polish in some areas. | **Sections of the Portfolio meet basic expectations, the overall quality is subpar.** Subpar quality with notable deficiencies in multiple aspects. | **Portfolio is fundamentally flawed, with significant deficiencies across all areas.** Poor quality, failing to meet essential requirements in design, content, and technical proficiency. | **No submission** |
+To run the portfolio website locally on your machine, follow these simple steps:
 
-#### Project Requirements
+Clone the repository: Open your terminal and run the following command:
 
-1. **Design and User Experience**
-    - Create a clean and professional design.
-    - Ensure easy navigation and accessibility.
-    - Use responsive design to make your site look good on all devices.
+Welcome to my personal portfolio page, where I showcase my skills and share a bit about myself—all through the lens of my passion for golf!
 
-2. **Project Showcase**
-    - Include at least 2 project.
-    - Provide a brief description, technologies used, and a link to the project or its repository.
-    - Use images or screenshots to enhance the showcase.
 
-3. **Content Quality**
-    - Write clear and concise descriptions for each section.
-    - Ensure there are no grammatical or spelling errors.
-    - Maintain a consistent and professional tone throughout the site.
+# Navigate to the project directory:
 
-4. **Technical Proficiency**
-    - Use HTML, CSS, and optionally JavaScript to build your site.
-    - Ensure the code is clean, well-organised, and properly commented.
-    - Implement basic SEO practices, such as meta tags and descriptive URLs.
+cd your-repo-name
 
-#### Submission Guidelines
+# Open the HTML file:
 
-- Submit your project GitHub link to the CDV05 Project Tab.
-- Ensure your project is well-documented, including a README file with instructions on how to view the site locally (if not yet deployed live).
+Locate the main HTML file (usually index.html) and open it in your preferred web browser. You can do this by double-clicking the file or by using the terminal:
 
-### Tips for Success
+open index.html # For macOS
+xdg-open index.html # For Linux
+start index.html # For Windows
 
-- **Plan your layout**: Sketch your design on paper before you start coding.
-- **Use online resources**: Look for inspiration and tutorials to help you with design and technical challenges.
-- **Test your site**: Make sure your portfolio works on different devices and browsers.
-- **Ask for feedback**: Show your site to peers or mentors and make improvements based on their suggestions.
+### Enjoy the portfolio! Your portfolio should now be running locally, showcasing your projects and contact form.
 
-By following this brief and focusing on each criterion, you will be able to create a simple developer portfolio that effectively showcases your skills and projects. Good luck!
+# Contact Me
+0720582112 or email me: mphumu.tshiswaise@gmail.com
+I’d love to hear from you! Whether you have questions, feedback, or just want to chat about my portfolio or web development, feel free to reach out.
